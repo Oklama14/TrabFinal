@@ -1,17 +1,9 @@
-# appfirebase
+# Este projeto foi homologada em dispositivos android, sendo eles físicos ou virtuais (Emulado com Android Studio)
 
-A new Flutter project.
+Testes feitos em:
 
-## Getting Started
+Android Físico: Versão 14.1
+Emulado com Android Studio: Versão 13.0
+minSdk Android Version 23
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 "# TrabFinal" 
